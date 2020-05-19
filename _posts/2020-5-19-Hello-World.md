@@ -1,3 +1,7 @@
-I love tech, and it is this passion that has driven me as a front end developer. In my college days I was known for my ability to bring broken computers back to life, something that evolved from taking apart electronics at home to find out how they worked. The same question of “how does that work?” drives me to learn and progress.
+---
+layout: post
+title: Hello World!
+---
 
-I relish the opportunity to write code, and have a skill set that includes the most modern of web development languages, and has solid foundations in my marketing past, including implementation of advertising and analytics tags with websites, and a pragmatic approach to problem solving.
+
+This is my "Hello World" for a jekyll blog system hosted on github - you can find instructions of how to do this yourself at https://github.com/barryclark/jekyll-now
