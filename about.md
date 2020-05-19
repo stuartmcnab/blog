@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I love tech, and it is this passion that has driven me as a front end developer. In my college days I was known for my ability to bring broken computers back to life, something that evolved from taking apart electronics at home to find out how they worked. The same question of “how does that work?” drives me to learn and progress.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I relish the opportunity to write code, and have a skill set that includes the most modern of web development languages, and has solid foundations in my marketing past, including implementation of advertising and analytics tags with websites, and a pragmatic approach to problem solving.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[stuartmcnab@protonmail.com](mailto:stuartmcnab@protonmail.com)
